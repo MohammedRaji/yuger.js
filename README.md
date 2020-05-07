@@ -1,7 +1,7 @@
 # yuger.js
 yuger.js is a JavaScript library which can be used to add highly customizable vibrant icons to the DOM without any dependencies.
 
-### Check [DEMO]()
+### Check [DEMO](https://mohammedraji.github.io/yuger.js/)
 
 ---
 
@@ -52,8 +52,8 @@ If you wish to create your very own yuger.js with your custom icons, just add th
 
 ## Contributing
 
-* Create an [issue](/issues/new) with your feedback, idea, request etc.
-* [Fork](/fork) me and contribute with improved/new icons :)
+* Create an [issue](https://github.com/MohammedRaji/yuger.js/issues/new) with your feedback, idea, request etc.
+* [Fork](https://github.com/MohammedRaji/yuger.js/fork) me and contribute with improved/new icons :)
 
 >**Note:** we currently do not accept third-party drawn icons. 
 
